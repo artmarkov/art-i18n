@@ -1,0 +1,21 @@
+{
+  "name": "artsoft/art-i18n",
+  "description": "Migrations for Art CMS powered site internationalization",
+  "license": "Apache-2.0",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Taras Makitra",
+      "email": "makitrataras@gmail.com"
+    },
+    {
+      "name": "Artur Markov",
+      "email": "artmarkov@mail.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "artsoft\\art-i18n\\": ""
+    }
+  }
+}

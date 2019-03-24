@@ -49,6 +49,7 @@ class m160419_225904_i18n_ru_art_media extends TranslatedMessagesMigration
             'Please, select file to view details.' => 'Пожалуйста, выберите файл для просмотра деталей.',
             'Select image size' => 'Выберите размер файла',
             'Small size' => 'Малый размер',
+            'Sorry, [{filetype}] file type is not permitted!' => 'Извините, [{filetype}] тип файла не разрешен!',
             'Start upload' => 'Начать загрузку',
             'Thumbnails settings' => 'Настройка миниатюр',
             'Thumbnails sizes has been resized successfully!' => 'Миниатюры успешно сохранены',

@@ -18,6 +18,7 @@ class m160419_233813_i18n_ru_art_post extends TranslatedMessagesMigration
     public function getTranslations()
     {
         return [
+            'Categories' => 'Категории',
             'Create Category' => 'Создать Категорию',
             'Update Category' => 'Обновить Категорию',
             'Create Tag' => 'Создать Тег',

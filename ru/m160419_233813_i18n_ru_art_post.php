@@ -25,7 +25,7 @@ class m160419_233813_i18n_ru_art_post extends TranslatedMessagesMigration
             'Update Tag' => 'Обновить Тег',
             'No posts found.' => 'Записи не найдены.',
             'Post' => 'Запись',
-            'Posted in' => 'Опубликировано в',
+            'Posted in' => 'Опубликовано в',
             'Posts Activity' => 'Активность Записей',
             'Posts' => 'Записи',
             'Tag' => 'Тег',

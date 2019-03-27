@@ -23,7 +23,7 @@ class m160419_234401_i18n_ru_art_seo extends TranslatedMessagesMigration
             'Index' => 'Индексировать',
             'Keywords' => 'Ключевые слова',
             'SEO' => 'SEO',
-            'Search Engine Optimization' => 'Поисковая оптимизаци',
+            'Search Engine Optimization' => 'Поисковая оптимизация',
             'Update SEO Record' => 'Обновить SEO запись',
         ];
 

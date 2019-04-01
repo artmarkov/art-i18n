@@ -34,6 +34,7 @@ class m160419_235120_i18n_ru_art_settings extends TranslatedMessagesMigration
             'Date Mask' => 'Маска Даты',
             'Time Mask' => 'Маска Времени',
             'Date & Time Mask' => 'Маска Даты и Времени',
+            'Your settings have been saved.' => 'Настройки сохранены.',
         ];
     }
 }

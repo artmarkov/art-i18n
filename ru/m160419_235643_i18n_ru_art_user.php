@@ -44,7 +44,7 @@ class m160419_235643_i18n_ru_art_user extends TranslatedMessagesMigration
             'Update Permission Group' => 'Обновить Группу прав доступа',
             'Update Permission' => 'Обновить право доступа',
             'Update Role' => 'Обновить Роль',
-            'Update User Password' => 'Обновить Пароль пользователя',
+            'Update Password for "{user}"' => 'Обновить Пароль для "{user}"',
             'Update User' => 'Обновить пользователя',
             'User not found' => 'Пользователь не найден',
             'User' => 'Пользователь',

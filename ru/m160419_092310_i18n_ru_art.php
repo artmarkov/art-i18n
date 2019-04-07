@@ -131,7 +131,7 @@ class m160419_092310_i18n_ru_art extends TranslatedMessagesMigration
             'This e-mail already exists' => 'Этот e-mail уже занят',
             'Title' => 'Заголовок',
             'Token' => 'Токен',
-            'Trash' => 'Мусор',
+            'Trash' => 'Корзина',
             'Type' => 'Тип',
             'URL' => 'URL',
             'Unpublish' => 'Отменить Публикацию',

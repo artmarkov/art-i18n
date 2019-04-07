@@ -20,7 +20,7 @@ class m160419_235120_i18n_ru_art_settings extends TranslatedMessagesMigration
         return [
             'General Settings' => 'Общие Настройки',
             'Reading Settings' => 'Настройки Чтения',
-            'Site Title' => 'Название Сайт',
+            'Site Title' => 'Название Сайта',
             'Site Description' => 'Описание Сайта',
             'Admin Email' => 'E-mail Администратора',
             'Timezone' => 'Часовой Пояс',

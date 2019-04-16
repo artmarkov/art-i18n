@@ -30,7 +30,6 @@ class m160419_233813_i18n_ru_art_post extends TranslatedMessagesMigration
             'Posts' => 'Публикации',
             'Tag' => 'Тег',
             'Tags' => 'Теги',
-            'Thumbnail' => 'Эскиз',
         ];
     }
 }

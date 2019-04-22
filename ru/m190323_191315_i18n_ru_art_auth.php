@@ -68,7 +68,7 @@ class m190323_191315_i18n_ru_art_auth extends TranslatedMessagesMigration
             'Update Password' => 'Обновить пароль',
             'User Profile' => 'Профиль Пользователя',
             "User with the same email as in {client} account already exists but isn't linked to it. Login using email first to link it." => 'Пользователь с той же электронной почтой, что и в учетной записи {client}, уже существует, но не связан с ней. Войти с помощью электронной почты, чтобы связать его.',
-            'The username should contain only Latin letters, numbers and the following characters: "-" and "_".' => 'Имя пользователя должно содержать только латинские буквы, цифры и следующие символы: "-" и "_".',
+            'The username should contain only Latin letters, numbers and the following characters: "_".' => 'Имя пользователя должно содержать только латинские буквы, цифры и следующие символы: "_".',
             'Username contains not allowed characters or words.' => 'Имя пользователя содержит недопустимые символы или слова.',
             'Wrong password' => 'Неверный пароль',
             'You could not login from this IP' => 'Вы не можете войти с этого IP',

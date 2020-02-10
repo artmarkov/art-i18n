@@ -21,7 +21,7 @@ class m160419_210059_i18n_ru_art_translation extends TranslatedMessagesMigration
             'Add New Source Message' => 'Добавить Источник Сообщения',
             'Category' => 'Категория',
             'Create Message Source' => 'Создать Сообщение',
-            'Create New Category' => 'Создать Новую Категори',
+            'Create New Category' => 'Создать Новую Категорию',
             'Immutable' => 'Неизменный',
             'Message Translation' => 'Перевод Сообщений',
             'New Category Name' => 'Название Новой Категории',

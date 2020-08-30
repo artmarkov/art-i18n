@@ -13,6 +13,7 @@ class m160419_145301_i18n_ru_menu_user extends Migration
         $this->insert('{{%menu_link_lang}}', ['link_id' => 'user-permission', 'label' => 'Права Доступа', 'language' => 'ru']);
         $this->insert('{{%menu_link_lang}}', ['link_id' => 'user-role', 'label' => 'Роли Пользователей', 'language' => 'ru']);
         $this->insert('{{%menu_link_lang}}', ['link_id' => 'user-user', 'label' => 'Пользователи', 'language' => 'ru']);
+        $this->insert('{{%menu_link_lang}}', ['link_id' => 'user-session', 'label' => 'Сеансы', 'language' => 'ru']);
     }
 
 }

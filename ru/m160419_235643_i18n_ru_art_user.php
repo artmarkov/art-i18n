@@ -56,6 +56,14 @@ class m160419_235643_i18n_ru_art_user extends TranslatedMessagesMigration
             "You can't update own permissions!" => "Вы не можете изменить собственные права доступа!",
             '{permission} Permission Settings' => 'Настройки прав доступа "{permission}"',
             '{permission} Role Settings' => 'Настройки роли "{permission}"',
+            'Sessions' => 'Сеансы',
+            'Waiting' => 'В ожидании',
+            'Current' => 'Текущий',
+            'Active' => 'Активный',
+            'Expire' => 'Истекает',
+            'Last Attempt' => 'Последнее обращение',
+            'Destroy sessions' => 'Уничтожить сеанс',
+            'Are you sure you want to destroy this session?' => 'Вы уверены, что хотите уничтожить сеанс?',
         ];
 
     }
